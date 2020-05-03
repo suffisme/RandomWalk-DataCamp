@@ -17,4 +17,4 @@
 
 The program is to find the probability if he reaches the 50th Floor in 100 dice throws.
 
-![](pics/info.jpg)
+![](Add_ons/info.jpg)
