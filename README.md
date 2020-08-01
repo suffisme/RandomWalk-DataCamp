@@ -2,7 +2,7 @@
 
 ### About Site:
 - A python Intermediate Course at datacamp
-- Creattion of RandomWalk algorithm in its tutorial
+- Creation of RandomWalk algorithm in its tutorial
 
 ### About Programme:
 > A man is wanting to go upstairs.
